@@ -1,5 +1,5 @@
 # xxn
-
+反馈交流群（谨言慎行） 823785266
 存储中国大陆各类小仙女案件，欢迎补充（Store all kinds of fairy cases in mainland China, welcome to add）  
 
 - 欢迎提交issues或pr以完善或新增事件记录  
