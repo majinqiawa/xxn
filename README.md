@@ -8,11 +8,8 @@
 - 案件均以单个案件单个文件夹形式存储，新闻链接存储于url.txt，如链接失效，可查看文件夹内截图或浏览器快照，命名为photo_1(编号依次增加)
 - [浏览器快照查看教程(视频1分20秒处开始)](https://www.bilibili.com/video/BV1jM4y1n7rg/)
 
-##仓库优秀贡献者
-- [AOQNRMGYXLMV](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3AAOQNRMGYXLMV)
-- [RockChinQ](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3ARockChinQ)
-- [jerryyang-git](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3Ajerryyang-git)
-- [ztw321](https://github.com/majinqiawa/xxn/issues/created_by/ztw321)
+## 仓库优秀贡献者
+[AOQNRMGYXLMV](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3AAOQNRMGYXLMV)  [RockChinQ](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3ARockChinQ)  [jerryyang-git](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3Ajerryyang-git)  [ztw321](https://github.com/majinqiawa/xxn/issues/created_by/ztw321)
 
 ## 索引
 
