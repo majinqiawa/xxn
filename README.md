@@ -9,7 +9,8 @@
 - [浏览器快照查看教程(视频1分20秒处开始)](https://www.bilibili.com/video/BV1jM4y1n7rg/)
 
 ## 仓库优秀贡献者
-[AOQNRMGYXLMV](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3AAOQNRMGYXLMV)  [RockChinQ](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3ARockChinQ)  [jerryyang-git](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3Ajerryyang-git)  [ztw321](https://github.com/majinqiawa/xxn/issues/created_by/ztw321)
+[AOQNRMGYXLMV](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3AAOQNRMGYXLMV)      [RockChinQ](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3ARockChinQ)      [jerryyang-git](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3Ajerryyang-git)   
+   [ztw321](https://github.com/majinqiawa/xxn/issues/created_by/ztw321)
 
 ## 索引
 
