@@ -10,6 +10,7 @@
 
 ## 仓库优秀贡献者
 [AOQNRMGYXLMV](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3AAOQNRMGYXLMV)    [RockChinQ](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3ARockChinQ)    [jerryyang-git](https://github.com/majinqiawa/xxn/issues?q=is%3Aissue+author%3Ajerryyang-git)    [ztw321](https://github.com/majinqiawa/xxn/issues/created_by/ztw321)
+[Dedicatus5457](https://github.com/Dedicatus5457)
 
 ## 索引
 
